@@ -53,4 +53,4 @@ Favorable mutator guarantees that every time the new individual produced by muta
 or at least the best one among all attempts. 
 This greatly improves the effectiveness of mutation and enables the algorithm to converge to the optimal solution faster.
 
-PS: The code is based on the MIT open source GAlib library.
+PS: The code is based on the MIT open source GAlib library. And this is just a simple trick but effective to improve GA for TSP, if you have somthing to share, please feel free to leave an issue.
